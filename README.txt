@@ -1,9 +1,3 @@
-Assignment 3
-  
-Author:
-
-Archan Datta
-101063873
 
 Purpose:
 
